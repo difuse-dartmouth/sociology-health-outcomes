@@ -1,6 +1,6 @@
 # Sociology 34:Health Disparities <a href="https://github.com/difuse-dartmouth/public-module-template/archive/refs/heads/main.zip"><img src="https://github.com/difuse-dartmouth/.github/blob/ecc522189d093025100d24feef5fc134f592c677/profile/download_button.png" alt="Download the entire module" align="right" style="width: 0.25in;"></a>
 
-This repository contains all the components of the data science module for Dartmouth College's ABCD 00: A course you'd like to take.  Click the icon next to the course name above to download the entire module.
+This repository contains all the components of the data science module for Dartmouth College's Sociology 34: Health Disparities.  Click the icon next to the course name above to download the entire module.
 
 ## Primary Objective
 
