@@ -4,7 +4,10 @@ This repository contains all the components of the data science module for Dartm
 
 ## Primary Objective
 
-Give students exposure to data science to help them to better understand the course material. Our Modules each week relate to each other and encourage students to think about health disparities across the many health factors they learn about in class.
+Give students exposure to data science to help them to better understand the course material. Weekly data visualization assignments relate to each other and encourage students to think about health disparities across the many health factors they learn about in class.
+
+From the introduction to the modules:
+> Throughout the course you will complete four modules that each analyze how different factors might affect health outcomes. We focus on the state of Texas as a case study that will help us come to broader conclusions about the geography of health disparities in the United States. Following our course plan, the first module will focus on social and economic factors, the second on health behaviors, the third on physical environment, and the fourth on access to health care. We will visualize how each of these factors relates to self-rated health, through an analysis of an interactive map that overlays these data. We will consider these health outcomes in an "ideal" scenario, where we will not include demographic factors in our analysis. The conceptual map below demonstrates the relationship of each module relates to overall health.
 
 ## Student Expectations
 
@@ -22,5 +25,9 @@ Use this page to get an idea of the timeline of the module, what components are 
 
 | Date             |  In/Out of Class | Assignment Description                     | Linked course content                                    | Assignment Files (Linked to Repository Contents) |
 |------------------|-----------------|--------------------------------------------------|-------------------------------------------------|--------------------------------------------------|
-| Week 1 | Out of class      | Set #1: ...  | Course content|[Problem Set 1](completed_module/components/assignment1/XXX) |
-| Day 8 | In class      | Set #2: ... | 	Course content |[Problem Set 2](completed_module/public/components/assignment2/XXX) |
+| Week 1 | In class          |Introduction to modules, variables, techniques, and colab| | LINK |
+| Week 2 | Out of class      | Module #1: Socioeconomic impact on health outcomes  | <a href="https://doi.org/10.1146/annurev.soc.012809.102529"> "Socioeconomic Disparities in Health Behaviors” by Pampel et al. (2010).</a> |[Module 1](completed_module/components/assignment1/XXX) |
+| Week 4 | Out of class      | Module #2:  Smoking, physical inactivity, and food insecurity.  | <a href="https://www.nytimes.com/2019/11/06/us/politics/flint-michigan-schools.html"> "Flint’s Children Suffer in Class After Years of Drinking the Lead-Poisoned Water"</a> |[Module 2](completed_module/components/assignment2/XXX) |
+| Week 6 | Out of class      | Module #3:  Impact of the physical environment: air pollution and severe housing problems.  | <a href="https://doi.org/10.1016/j.socscimed.2005.07.029l"> "Neighborhood effects on primary care access in Los Angeles" (Prentice, 2005).</a> |[Module 3](completed_module/components/assignment3/XXX) |
+| Week 8 | Out of class      | Module #4:  Impact of access to clinical care  |  |[Module 4](completed_module/components/assignment4/XXX) |
+
