@@ -17,7 +17,7 @@ This module was developed through the DIFUSE project at Dartmouth College and fu
 
 ## [Click here for module materials](completed_module/README.md)
 
-For instructors and interested parties, the history of this repository (with detailed commits), can be found [here](https://github.com/difuse-dartmouth/data-migration-template/commits/main/).
+For instructors and interested parties, the history of this repository (with detailed commits), can be found [here](https://github.com/difuse-dartmouth/SOCY34_F21/commits/main/).
 
 ## Folder Structure
 
