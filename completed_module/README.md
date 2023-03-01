@@ -1,20 +1,19 @@
-# Course NAME <a href="https://github.com/difuse-dartmouth/public-module-template/archive/refs/heads/main.zip"><img src="https://github.com/difuse-dartmouth/.github/blob/ecc522189d093025100d24feef5fc134f592c677/profile/download_button.png" alt="Download the entire module" style="width: 0.25in;"></a>
+# Health Disparities <a href="https://github.com/difuse-dartmouth/public-module-template/archive/refs/heads/main.zip"><img src="https://github.com/difuse-dartmouth/.github/blob/ecc522189d093025100d24feef5fc134f592c677/profile/download_button.png" alt="Download the entire module" style="width: 0.25in;"></a>
 
 This repository contains all the components of the data science module for Dartmouth College's ABCD 00: A course you'd like to take.  Click the icon next to the course name above to download the entire module.
 
 ## Primary Objective
 
-The primary objective for this module is...
+Give students exposure to data science to help them to better understand the course material. Our Modules each week relate to each other and encourage students to think about health disparities across the many health factors they learn about in class.
 
 ## Student Expectations
 
-Give details of what students have as background.  Do we expect them to have certain skills? Does the course have prerequisites? etc.
+Sociology 34, Health Disparities, is a lower major level course in the Sociology Department. While there are no prerequisites, most students have completed one or more introductory sociology courses.
 
 ## Learning Objectives
-1.	Objective 1
-2.	Objective 2
-3.	Objective 3
-4.	Objective 4
+1.	Understand how to use data visualization methods.
+2.	Generate and test hypotheses about relationships between different variables and health outcomes.
+3.	Build and use models to predict outcomes.
 
 
 ## Schedule and Links
