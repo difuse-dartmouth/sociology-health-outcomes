@@ -25,8 +25,8 @@ For instructors and interested parties, the history of this repository (with det
 
 The folder *completed_module* contains all of the module components.  
 
-The *components* subfolder contains ...
+The *components* subfolder contains links to assignment materials.
 
-The *data* subfolder contains ...
+The *data* subfolder contains csv files with all the data used in the module.
 
-The *logistics* subfolder contains ...
+The *logistics* subfolder contains course information relevant to the module.
