@@ -1,4 +1,4 @@
-# Module 1: Impact of Socioeconomic variables on health outcomes
+# Module 1: Impact of health behaviors on health outcomes
 
 SOCY 34 uses canvas quizzes to introduce and guide students through the exercises.  You can find the quiz on the <a href="https://lor.instructure.com/resources/cdd4d5eb87e44822a1fac5dd10bfe7d7">Canvas Commons</a>.
 
