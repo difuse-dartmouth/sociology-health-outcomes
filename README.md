@@ -54,4 +54,5 @@ This course was developed for a sociology course, <a href="http://dartmouth.smar
 
 | <a href="https://github.com/difuse-dartmouth/public-module-template/archive/refs/heads/main.zip"><img src="https://github.com/difuse-dartmouth/.github/blob/340f5bf6d8f34cdaa63bfe613eca7a131c0ec48e/profile/images/download-all.png" alt="Download the entire module" align="center" style="width: 4in;"></a>| <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="width=2in" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /><br></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. |
 |---------|----------|
+
 For instructors and interested parties, the history of this repository (with detailed commits), can be found [here](https://github.com/difuse-dartmouth/SOCY34_F21/commits/main/).
