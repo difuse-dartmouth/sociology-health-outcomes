@@ -1,6 +1,6 @@
-# Sociology: Health Disparities DIFUSE Module 
+# Sociology: Health Outcomes DIFUSE Module 
 
-## Contributors: Katherine Lasonde ('23), Kyra McLaughlin ('23), Osman Khan (Data Visualization Fellow, DALI Lab), Emily Walton (Professor of Sociology) Scott Pauls (PI, Professor of Mathematics)
+## Contributors: Katherine Lasonde ('23), Kyra McLaughlin ('23), Osman Khan (Data Visualization Fellow, DALI Lab), Emily Walton (Professor of Sociology), Scott Pauls (PI, Professor of Mathematics), Taylor Hickey ('23, Project Manager)
 
 ![DIFUSE Data Science Module.  Sociology 34: Health Disparities.  Professor Emily Walton, Dartmouth College.  Funded by NSF IUSE1917002](repository-assets/DIFUSE-SOCY-34.png)
 
@@ -27,7 +27,7 @@ For instructors and interested parties, the history of this repository (with det
 
 Give students exposure to data science to help them to better understand the course material. Weekly data visualization assignments relate to each other and encourage students to think about health disparities across the many health factors they learn about in class.
 
-From the introduction to the modules:
+From the introduction to the components:
 > Throughout the course you will complete four modules that each analyze how different factors might affect health outcomes. We focus on the state of Texas as a case study that will help us come to broader conclusions about the geography of health disparities in the United States. Following our course plan, the first module will focus on social and economic factors, the second on health behaviors, the third on physical environment, and the fourth on access to health care. We will visualize how each of these factors relates to self-rated health, through an analysis of an interactive map that overlays these data. We will consider these health outcomes in an "ideal" scenario, where we will not include demographic factors in our analysis. The conceptual map below demonstrates the relationship of each module relates to overall health.
 
 ## Student Expectations
