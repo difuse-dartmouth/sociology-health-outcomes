@@ -52,3 +52,7 @@ Use this page to get an idea of the timeline of the module, what components are 
 | Week 6 | Out of class      | Module #3:  Impact of the physical environment: air pollution and severe housing problems.  | <a href="https://doi.org/10.1016/j.socscimed.2005.07.029l"> "Neighborhood effects on primary care access in Los Angeles" (Prentice, 2005).</a> |[Module 3](completed_module/components/assignment3/README.md) |
 | Week 8 | Out of class      | Module #4:  Impact of access to clinical care  |  |[Module 4](completed_module/components/assignment4/README.md) |
 
+---
+
+| <a href="https://github.com/difuse-dartmouth/public-module-template/archive/refs/heads/main.zip"><img src="https://github.com/difuse-dartmouth/.github/blob/340f5bf6d8f34cdaa63bfe613eca7a131c0ec48e/profile/images/download-all.png" alt="Download the entire module" align="center" style="width: 4in;"></a>| <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="width=2in" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /><br></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. |
+|---------|----------|
