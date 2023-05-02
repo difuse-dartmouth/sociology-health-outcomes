@@ -1,6 +1,6 @@
 # Sociology: Health Outcomes DIFUSE Module 
 
-## Contributors: Katherine Lasonde ('23), Kyra McLaughlin ('23), Osman Khan (Data Visualization Fellow, DALI Lab), Emily Walton (Professor of Sociology), Scott Pauls (PI, Professor of Mathematics), Taylor Hickey ('23, Project Manager)
+## Contributors: Katherine Lasonde ('23), Kyra McLaughlin ('23), Osman Khan (Data Visualization Fellow, DALI Lab), Emily Walton (Professor of Sociology), Scott Pauls (DIFUSE PI, Professor of Mathematics), Taylor Hickey ('23, Project Manager)
 
 ![DIFUSE Data Science Module.  Sociology 34: Health Disparities.  Professor Emily Walton, Dartmouth College.  Funded by NSF IUSE1917002](repository-assets/DIFUSE-SOCY-34.png)
 
