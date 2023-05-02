@@ -22,7 +22,7 @@ Give students exposure to data science through the analysis and visualization of
 -->
 
 ## Student Learning Objectives
-1.	Understand how to use data visualization methods.
+1.	Apply data visualization methods and interpret the results.
 2.	Generate and test hypotheses about relationships between different variables and health outcomes.
 3.	Build and use models to predict outcomes.
 
