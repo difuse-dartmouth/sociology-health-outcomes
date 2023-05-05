@@ -10,16 +10,8 @@ This module was developed through the DIFUSE project at Dartmouth College and fu
 |[<img src="/repository-assets/download-all.png" alt="Download the entire module" align="center" style="width: 4in;" />](https://github.com/difuse-dartmouth/sociology-health-outcomes/archive/refs/heads/main.zip)| <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="width=2in" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /><br></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. |
 |---------|----------|
 
-
-# Module Overview
 ## Module Objective 
 Give students exposure to data science through the analysis and visualization of data, and interpreting and communicating results in the context of sociological questions about the relationship between statistical data from Texas counties and self-reported health measures.
-
-<!--
-<img src="https://github.com/difuse-dartmouth/SOCY34_F21/blob/990cc138eeda625d3ec4aa8d6aa2ef403d39c258/repository-assets/SOCY-34-badge.png" alt="Medium length module for an introductory course using python and covering analyzing, visualizing data, drawing conclusions, and communicating data." style="width: 55vw; min-width: 330px;" class="center">
-
-(<a href="https://github.com/difuse-dartmouth/.github/blob/8f8f6efff8943871e1fcaa3b6f2daf1531206df6/profile/howto.md">What does this badge mean?</a>)
--->
 
 ## Student Learning Objectives
 1.	Apply data visualization methods and interpret the results.
